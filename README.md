@@ -4,13 +4,18 @@ Static marketing site for Grizzly Plumbing & Heating (GTA).
 
 ## Repository
 
-https://github.com/RalHill/Grizzlys-Plumbing
+[github.com/RalHill/Grizzlys-Plumbing](https://github.com/RalHill/Grizzlys-Plumbing)
 
 ## Live site (Vercel)
 
-**Production:** https://grizzlys-plumbing.vercel.app
+| | URL |
+|--|-----|
+| **Production** | [grizzlys-plumbing.vercel.app](https://grizzlys-plumbing.vercel.app) |
+| Vercel project | [Dashboard → grizzlys-plumbing](https://vercel.com/rahgmah-7532s-projects/grizzlys-plumbing) |
 
-_Add your custom domain in the Vercel project settings when ready._
+The GitHub repo is connected to this Vercel project; pushes to `main` trigger new deployments.
+
+_Add a custom domain under **Project → Settings → Domains** when ready._
 
 ## Local preview
 
